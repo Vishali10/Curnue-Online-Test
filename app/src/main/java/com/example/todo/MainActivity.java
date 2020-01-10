@@ -10,13 +10,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TimePicker;
 import android.widget.Toast;
-
-
-
 import AlarmReciever.R;
-
-import AlarmReciever;
-
 
 import java.util.Calendar;
 
